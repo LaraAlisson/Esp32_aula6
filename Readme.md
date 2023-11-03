@@ -1,0 +1,1 @@
+Aula nº 6 curso de espe, código desenvolvido no arduino IDE e no VSC este com biblioteca de configuração dos pinos

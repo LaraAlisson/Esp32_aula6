@@ -1,0 +1,21 @@
+Aula 1 e 2 - Istalação e teste ide arduino exe: pisca Lede
+Cód: ND
+***********************************************************
+Aula 3 - Instalação e configuração IDE nativa Esp-IDF.
+Cód: Acesso a configuração da esp32 = 
+idf.py menuconfig,
+idf.py build, 
+idf.py -p com3 flash monitor
+**********************************************************
+Aula 4 - Instalação Visual estudio code usar como ide arduino.
+Cód: 	Serial.begin(115200);
+	Serial.println("");
+	Declaração de variavel = Static - não zera ao inicializar o LOOP.
+	Exemplo: static int 1 = 0;
+	monitor_speed = 115200
+**********************************************************
+Aula 5 - usar IDE nativa com o Visual estudio.
+Configurar terminal:
+1 - 	cliar um workspace em save workspace as
+2 - 	Adicionar os código necessarios...
+	ver arquivo visual studio aula 5 (blink.code-workspace)
